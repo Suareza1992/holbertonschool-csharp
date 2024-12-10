@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 # Check if folder already exists.
-
-if [ -d  "1-new_project" ]; then
+if [ -d "1-new_project" ]; then
 	echo "Folder '1-new_project' already exists."
 	exit 1
 fi
