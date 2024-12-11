@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net9.0/3-writeline
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net9.0/3-writeline.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net9.0/3-writeline.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net9.0/3-writeline.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net9.0/3-writeline.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/3-writeline.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/3-writeline.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/3-writeline.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/3-writeline.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/3-writeline.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/3-writeline.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/refint/3-writeline.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/3-writeline.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/3-writeline.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net9.0/ref/3-writeline.dll
