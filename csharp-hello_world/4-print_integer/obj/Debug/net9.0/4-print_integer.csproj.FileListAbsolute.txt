@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/net9.0/4-print_integer
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/net9.0/4-print_integer.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/net9.0/4-print_integer.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/net9.0/4-print_integer.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/net9.0/4-print_integer.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/4-print_integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/4-print_integer.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/4-print_integer.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/4-print_integer.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/4-print_integer.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/4-print_integer.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/refint/4-print_integer.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/4-print_integer.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/4-print_integer.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/net9.0/ref/4-print_integer.dll
