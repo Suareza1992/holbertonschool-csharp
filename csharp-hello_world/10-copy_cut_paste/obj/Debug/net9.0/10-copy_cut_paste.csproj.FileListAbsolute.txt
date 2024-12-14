@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net9.0/10-copy_cut_paste
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net9.0/10-copy_cut_paste.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net9.0/10-copy_cut_paste.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net9.0/10-copy_cut_paste.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net9.0/10-copy_cut_paste.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/10-copy_cut_paste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/10-copy_cut_paste.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/10-copy_cut_paste.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/10-copy_cut_paste.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/10-copy_cut_paste.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/10-copy_cut_paste.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/refint/10-copy_cut_paste.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/10-copy_cut_paste.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/10-copy_cut_paste.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net9.0/ref/10-copy_cut_paste.dll
