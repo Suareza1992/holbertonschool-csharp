@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/refint/9-print_specifiers.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/ref/9-print_specifiers.dll
