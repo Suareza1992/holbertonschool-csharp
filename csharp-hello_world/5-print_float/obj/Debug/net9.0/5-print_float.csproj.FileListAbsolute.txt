@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/5-print_float.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/5-print_float.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/5-print_float.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/5-print_float.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/5-print_float.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/bin/Debug/net9.0/5-print_float
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/bin/Debug/net9.0/5-print_float.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/bin/Debug/net9.0/5-print_float.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/bin/Debug/net9.0/5-print_float.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/bin/Debug/net9.0/5-print_float.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/5-print_float.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/refint/5-print_float.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/5-print_float.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/5-print_float.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/5-print_float/obj/Debug/net9.0/ref/5-print_float.dll
