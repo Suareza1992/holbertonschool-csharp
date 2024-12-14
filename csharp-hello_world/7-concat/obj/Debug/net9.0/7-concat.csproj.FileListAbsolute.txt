@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net9.0/7-concat
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net9.0/7-concat.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net9.0/7-concat.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net9.0/7-concat.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net9.0/7-concat.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/7-concat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/7-concat.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/7-concat.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/7-concat.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/7-concat.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/7-concat.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/refint/7-concat.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/7-concat.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/7-concat.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net9.0/ref/7-concat.dll
