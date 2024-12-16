@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/bin/Debug/net9.0/5-print_comb.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/bin/Debug/net9.0/5-print_comb.cs.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/bin/Debug/net9.0/5-print_comb.cs.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/bin/Debug/net9.0/5-print_comb.cs.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/bin/Debug/net9.0/5-print_comb.cs.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/5-print_comb.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/5-print_comb.cs.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/5-print_comb.cs.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/5-print_comb.cs.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/5-print_comb.cs.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/5-print_comb.cs.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/refint/5-print_comb.cs.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/5-print_comb.cs.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/5-print_comb.cs.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb.cs/obj/Debug/net9.0/ref/5-print_comb.cs.dll
