@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net9.0/3-print_alphabt
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net9.0/3-print_alphabt.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net9.0/3-print_alphabt.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net9.0/3-print_alphabt.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net9.0/3-print_alphabt.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/3-print_alphabt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/3-print_alphabt.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/3-print_alphabt.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/3-print_alphabt.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/3-print_alphabt.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/3-print_alphabt.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/refint/3-print_alphabt.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/3-print_alphabt.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/3-print_alphabt.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net9.0/ref/3-print_alphabt.dll
