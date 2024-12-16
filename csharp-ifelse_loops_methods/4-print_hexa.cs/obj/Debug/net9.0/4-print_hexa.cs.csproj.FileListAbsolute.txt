@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/bin/Debug/net9.0/4-print_hexa.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/bin/Debug/net9.0/4-print_hexa.cs.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/bin/Debug/net9.0/4-print_hexa.cs.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/bin/Debug/net9.0/4-print_hexa.cs.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/bin/Debug/net9.0/4-print_hexa.cs.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/4-print_hexa.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/4-print_hexa.cs.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/4-print_hexa.cs.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/4-print_hexa.cs.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/4-print_hexa.cs.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/4-print_hexa.cs.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/refint/4-print_hexa.cs.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/4-print_hexa.cs.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/4-print_hexa.cs.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa.cs/obj/Debug/net9.0/ref/4-print_hexa.cs.dll
