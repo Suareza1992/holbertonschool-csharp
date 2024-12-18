@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net9.0/6-divisible_by_2
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net9.0/6-divisible_by_2.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net9.0/6-divisible_by_2.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net9.0/6-divisible_by_2.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net9.0/6-divisible_by_2.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/6-divisible_by_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/6-divisible_by_2.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/6-divisible_by_2.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/6-divisible_by_2.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/6-divisible_by_2.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/6-divisible_by_2.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/refint/6-divisible_by_2.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/6-divisible_by_2.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/6-divisible_by_2.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net9.0/ref/6-divisible_by_2.dll
