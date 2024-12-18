@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net9.0/4-print_list
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net9.0/4-print_list.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net9.0/4-print_list.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net9.0/4-print_list.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net9.0/4-print_list.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/4-print_list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/4-print_list.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/4-print_list.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/4-print_list.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/4-print_list.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/4-print_list.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/refint/4-print_list.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/4-print_list.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/4-print_list.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net9.0/ref/4-print_list.dll
