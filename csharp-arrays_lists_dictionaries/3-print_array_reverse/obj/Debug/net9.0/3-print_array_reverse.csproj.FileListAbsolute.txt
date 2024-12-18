@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net9.0/3-print_array_reverse
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net9.0/3-print_array_reverse.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net9.0/3-print_array_reverse.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net9.0/3-print_array_reverse.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net9.0/3-print_array_reverse.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/3-print_array_reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/3-print_array_reverse.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/3-print_array_reverse.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/3-print_array_reverse.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/3-print_array_reverse.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/3-print_array_reverse.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/refint/3-print_array_reverse.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/3-print_array_reverse.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/3-print_array_reverse.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net9.0/ref/3-print_array_reverse.dll
