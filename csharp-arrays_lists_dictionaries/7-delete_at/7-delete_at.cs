@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class MyList
+class List
 {
     public static List<int> DeleteAt(List<int> myList, int index)
     {
