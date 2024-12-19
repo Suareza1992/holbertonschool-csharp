@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net9.0/8-number_keys
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net9.0/8-number_keys.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net9.0/8-number_keys.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net9.0/8-number_keys.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net9.0/8-number_keys.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/8-number_keys.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/8-number_keys.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/8-number_keys.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/8-number_keys.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/8-number_keys.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/refint/8-number_keys.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/8-number_keys.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/8-number_keys.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net9.0/ref/8-number_keys.dll
