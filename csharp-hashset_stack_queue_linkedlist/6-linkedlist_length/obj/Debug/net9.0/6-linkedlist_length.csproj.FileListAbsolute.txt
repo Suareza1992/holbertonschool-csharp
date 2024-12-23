@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/6-linkedlist_length.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/6-linkedlist_length.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/6-linkedlist_length.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/6-linkedlist_length.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/6-linkedlist_length.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net9.0/6-linkedlist_length
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net9.0/6-linkedlist_length.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net9.0/6-linkedlist_length.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net9.0/6-linkedlist_length.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net9.0/6-linkedlist_length.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/6-linkedlist_length.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/refint/6-linkedlist_length.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/6-linkedlist_length.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/6-linkedlist_length.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net9.0/ref/6-linkedlist_length.dll
