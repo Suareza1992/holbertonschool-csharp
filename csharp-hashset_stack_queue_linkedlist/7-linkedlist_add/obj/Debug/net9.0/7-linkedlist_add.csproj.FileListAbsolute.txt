@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net9.0/7-linkedlist_add
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net9.0/7-linkedlist_add.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net9.0/7-linkedlist_add.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net9.0/7-linkedlist_add.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/net9.0/7-linkedlist_add.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/7-linkedlist_add.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/7-linkedlist_add.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/7-linkedlist_add.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/7-linkedlist_add.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/7-linkedlist_add.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/7-linkedlist_add.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/refint/7-linkedlist_add.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/7-linkedlist_add.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/7-linkedlist_add.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/net9.0/ref/7-linkedlist_add.dll
