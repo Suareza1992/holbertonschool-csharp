@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net9.0/1-common_elements
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net9.0/1-common_elements.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net9.0/1-common_elements.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net9.0/1-common_elements.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net9.0/1-common_elements.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/1-common_elements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/1-common_elements.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/1-common_elements.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/1-common_elements.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/1-common_elements.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/1-common_elements.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/refint/1-common_elements.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/1-common_elements.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/1-common_elements.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net9.0/ref/1-common_elements.dll
