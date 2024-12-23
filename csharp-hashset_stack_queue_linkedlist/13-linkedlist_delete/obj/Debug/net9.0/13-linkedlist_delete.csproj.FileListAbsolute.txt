@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net9.0/13-linkedlist_delete
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net9.0/13-linkedlist_delete.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net9.0/13-linkedlist_delete.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net9.0/13-linkedlist_delete.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net9.0/13-linkedlist_delete.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/13-linkedlist_delete.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/13-linkedlist_delete.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/13-linkedlist_delete.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/13-linkedlist_delete.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/13-linkedlist_delete.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/13-linkedlist_delete.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/refint/13-linkedlist_delete.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/13-linkedlist_delete.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/13-linkedlist_delete.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net9.0/ref/13-linkedlist_delete.dll
