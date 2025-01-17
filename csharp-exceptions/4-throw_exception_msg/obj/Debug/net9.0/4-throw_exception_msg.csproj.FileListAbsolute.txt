@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net9.0/4-throw_exception_msg
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net9.0/4-throw_exception_msg.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net9.0/4-throw_exception_msg.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net9.0/4-throw_exception_msg.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net9.0/4-throw_exception_msg.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/4-throw_exception_msg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/4-throw_exception_msg.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/4-throw_exception_msg.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/4-throw_exception_msg.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/4-throw_exception_msg.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/4-throw_exception_msg.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/refint/4-throw_exception_msg.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/4-throw_exception_msg.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/4-throw_exception_msg.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net9.0/ref/4-throw_exception_msg.dll
