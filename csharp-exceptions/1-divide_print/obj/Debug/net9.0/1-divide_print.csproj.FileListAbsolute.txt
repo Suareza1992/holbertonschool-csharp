@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net9.0/1-divide_print
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net9.0/1-divide_print.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net9.0/1-divide_print.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net9.0/1-divide_print.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net9.0/1-divide_print.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/1-divide_print.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/1-divide_print.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/1-divide_print.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/1-divide_print.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/1-divide_print.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/1-divide_print.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/refint/1-divide_print.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/1-divide_print.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/1-divide_print.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net9.0/ref/1-divide_print.dll
