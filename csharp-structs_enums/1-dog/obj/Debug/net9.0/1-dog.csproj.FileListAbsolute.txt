@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net9.0/1-dog
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net9.0/1-dog.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net9.0/1-dog.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net9.0/1-dog.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net9.0/1-dog.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/1-dog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/1-dog.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/1-dog.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/1-dog.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/1-dog.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/1-dog.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/refint/1-dog.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/1-dog.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/1-dog.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net9.0/ref/1-dog.dll
