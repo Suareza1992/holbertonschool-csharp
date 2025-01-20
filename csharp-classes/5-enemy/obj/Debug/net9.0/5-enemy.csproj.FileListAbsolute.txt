@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net9.0/5-enemy
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net9.0/5-enemy.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net9.0/5-enemy.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net9.0/5-enemy.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net9.0/5-enemy.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/5-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/5-enemy.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/5-enemy.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/5-enemy.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/5-enemy.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/5-enemy.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/refint/5-enemy.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/5-enemy.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/5-enemy.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net9.0/ref/5-enemy.dll
