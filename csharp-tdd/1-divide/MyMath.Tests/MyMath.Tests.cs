@@ -1,42 +1,96 @@
 ﻿using NUnit.Framework;
+using System.Linq;
+using System;
+using System.IO;
 
 namespace MyMath.Tests
 {
     [TestFixture]
-    /// <summary>Tests Alz</summary>
     public class MatrixTests
     {
-        [Test]
-        public void positivetwo()
+        private int[,] matrix;
+
+        [SetUp]
+        public void SetUp()
         {
-            int[,] matrix = new int[,] {{ 30, 40 }, { 5, 11 }, { 15, 6 }, { 7, 8 }};
-            int n = 2;
-
-            int[,] result = Matrix.Divide(matrix, n);
-
-            Assert.AreEqual(new int[,] {{ 15, 20 }, { 2, 5 }, { 7, 3 }, { 3, 4 }}, result);
+            // Initialize test matrix
+            this.matrix = new int[,] {
+                { 0, 1, -2, 99, 100000 },
+                { 13, -4, 566, -77777, 88 },
+                { 10049, -666, 53, -1, 9999999 },
+            };
         }
 
         [Test]
-        public void zero()
+        public void Divide_ByNonZeroIntegers_ReturnsCorrectQuotients(
+            [Values(-99, 100, 4, 40000, -66, 631, 97531)] int divisor)
         {
-            int[,] matrix = new int[,] {{ 30, 40 }, { 5, 11 }, { 15, 6 }, { 7, 8 }};
-            int n = 0;
 
-            int[,] result = Matrix.Divide(matrix, n);
+            // Arrange - create expected matrix
+            int[,] expectedMatrix = new int[5,5];
 
-            Assert.AreEqual(null, result);
+            for (var y = 0; y < matrix.GetLength(0); y++)
+            {
+                for (var x = 0; x < matrix.GetLength(1); x++)
+                {
+                    expectedMatrix[y,x] = matrix[y,x] / divisor;
+                }
+            }
+
+            // Act - divide test matrix and check against expected output
+            var dividedMatrix = Matrix.Divide(this.matrix, divisor);
+
+            bool matricesAreEqual = true;
+
+            for (var y = 0; y < matrix.GetLength(0); y++)
+            {
+                for (var x = 0; x < matrix.GetLength(1); x++)
+                {
+                    // Check if items at index each match
+                    if (matrix[y,x] != expectedMatrix[y,x])
+                    {
+                        matricesAreEqual = false;
+                        break;
+                    }
+                }
+            }
+
+            // Assert
+            Assert.That(matricesAreEqual, Is.True);
         }
-        
-        [Test]
-        public void snull()
+
+        [TestCase(0)]
+        public void Divide_ByZero_ReturnsNull(int divisor)
         {
-            int[,] matrix = null;
-            int n = 3;
+            // Act - create test array with class method
+            var dividedMatrix = Matrix.Divide(this.matrix, divisor);
 
-            int[,] result = Matrix.Divide(matrix, n);
+            // Assert
+            Assert.That(dividedMatrix == null);
+        }
 
-            Assert.AreEqual(null, result);
+        [TestCase(0)]
+        public void Divide_ByZero_PrintsToConsole(int divisor)
+        {
+            // Set output stream
+            StringWriter stringWriter = new StringWriter();
+            Console.SetOut(stringWriter);
+
+            // Act - create test array with class method
+            var dividedMatrix = Matrix.Divide(this.matrix, divisor);
+
+            // Assert
+            Assert.That(stringWriter.ToString() == "Num cannot be 0\n");
+        }
+
+        [Test]
+        public void Divide_MatrixIsNull_ReturnsNull()
+        {
+            // Act - create test array with class method
+            var dividedMatrix = Matrix.Divide(null, 9);
+
+            // Assert
+            Assert.That(dividedMatrix == null);
         }
     }
 }
