@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net9.0/3-type_get
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net9.0/3-type_get.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net9.0/3-type_get.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net9.0/3-type_get.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net9.0/3-type_get.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/3-type_get.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/3-type_get.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/3-type_get.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/3-type_get.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/3-type_get.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/3-type_get.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/refint/3-type_get.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/3-type_get.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/3-type_get.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net9.0/ref/3-type_get.dll
