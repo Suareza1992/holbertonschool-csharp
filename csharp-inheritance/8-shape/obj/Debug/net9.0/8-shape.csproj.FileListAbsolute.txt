@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net9.0/8-shape
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net9.0/8-shape.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net9.0/8-shape.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net9.0/8-shape.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net9.0/8-shape.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/8-shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/8-shape.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/8-shape.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/8-shape.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/8-shape.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/8-shape.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/refint/8-shape.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/8-shape.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/8-shape.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net9.0/ref/8-shape.dll
