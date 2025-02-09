@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net9.0/2-subclass
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net9.0/2-subclass.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net9.0/2-subclass.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net9.0/2-subclass.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net9.0/2-subclass.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/2-subclass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/2-subclass.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/2-subclass.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/2-subclass.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/2-subclass.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/2-subclass.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/refint/2-subclass.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/2-subclass.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/2-subclass.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net9.0/ref/2-subclass.dll
