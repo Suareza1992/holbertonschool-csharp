@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/12-dot_product.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/12-dot_product.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/12-dot_product.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/12-dot_product.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/12-dot_product.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net9.0/12-dot_product
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net9.0/12-dot_product.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net9.0/12-dot_product.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net9.0/12-dot_product.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net9.0/12-dot_product.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/12-dot_product.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/refint/12-dot_product.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/12-dot_product.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/12-dot_product.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net9.0/ref/12-dot_product.dll
