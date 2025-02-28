@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net9.0/18-matrix_matrix_mul
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net9.0/18-matrix_matrix_mul.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net9.0/18-matrix_matrix_mul.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net9.0/18-matrix_matrix_mul.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net9.0/18-matrix_matrix_mul.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/18-matrix_matrix_mul.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/18-matrix_matrix_mul.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/18-matrix_matrix_mul.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/18-matrix_matrix_mul.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/18-matrix_matrix_mul.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/18-matrix_matrix_mul.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/refint/18-matrix_matrix_mul.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/18-matrix_matrix_mul.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/18-matrix_matrix_mul.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net9.0/ref/18-matrix_matrix_mul.dll
