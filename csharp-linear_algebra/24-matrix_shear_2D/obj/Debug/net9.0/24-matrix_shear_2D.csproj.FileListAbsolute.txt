@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net9.0/24-matrix_shear_2D
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net9.0/24-matrix_shear_2D.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net9.0/24-matrix_shear_2D.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net9.0/24-matrix_shear_2D.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net9.0/24-matrix_shear_2D.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/24-matrix_shear_2D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/24-matrix_shear_2D.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/24-matrix_shear_2D.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/24-matrix_shear_2D.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/24-matrix_shear_2D.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/24-matrix_shear_2D.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/refint/24-matrix_shear_2D.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/24-matrix_shear_2D.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/24-matrix_shear_2D.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net9.0/ref/24-matrix_shear_2D.dll
