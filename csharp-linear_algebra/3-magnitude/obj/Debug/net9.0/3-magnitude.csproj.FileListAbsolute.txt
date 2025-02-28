@@ -1,0 +1,15 @@
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/3-magnitude.AssemblyInfoInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/3-magnitude.AssemblyInfo.cs
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/3-magnitude.csproj.CoreCompileInputs.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/3-magnitude.sourcelink.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net9.0/3-magnitude
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net9.0/3-magnitude.deps.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net9.0/3-magnitude.runtimeconfig.json
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net9.0/3-magnitude.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net9.0/3-magnitude.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/3-magnitude.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/refint/3-magnitude.dll
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/3-magnitude.pdb
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/3-magnitude.genruntimeconfig.cache
+/Users/angelsuarez/Desktop/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net9.0/ref/3-magnitude.dll
